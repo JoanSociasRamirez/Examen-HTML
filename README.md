@@ -1,4 +1,5 @@
 # Examen-HTML
+Enlace RawGit: https://rawgit.com/ToniMeco/Examen-HTML/master/index.html
 Examen autocorregido html con xml y js.
 
 Consiste en un examen con corrección y con preguntas desde un documento xml usando js.
