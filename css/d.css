@@ -1,0 +1,49 @@
+html {
+    background: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    margin-left: 5%;
+    font-family: Arial;
+}
+
+a{
+    width: 65px;
+    padding: 1%;
+    display: block;
+    margin-bottom: 1%;
+    background: orange;
+    border: solid 2px gray;
+    font-weight: bold;
+}
+#corregir{
+    width: 85px;
+    padding: 1%;
+    display: block;
+    margin-bottom: 1%;
+    background: orange;
+    border: solid 2px gray;
+    font-weight: bold;
+}
+form{
+    width: 85%;
+    padding: 1%;
+    display: block;
+    margin-bottom: 1%;
+    background: orange;
+    border: solid 2px gray;
+}
+
+img{
+    display:block;
+    float:right;
+    margin:0 auto;
+    width:20%
+    
+}
+
